@@ -73,10 +73,10 @@ User Accounts: Allow users to create accounts to save their cost estimates, trac
 Detailed Reports: Generate customisable reports with breakdowns of costs for each selected service, comparisons between currencies, and other relevant financial insights.
 Enhanced Error Handling: Implement more robust error handling with detailed error messages and potential fallback mechanisms in case of API unavailability.
 Admin Panel: Provide an administrative interface to manage services, prices, currency options, and other application settings.
-Integration with other services Integrate with project management or invoicing tools to streamline workflows.
+Integration with other services: Integrate with project management or invoicing tools to streamline workflows.
 Conclusion
 The Business Cost Calculator is a practical and valuable tool for individuals and businesses looking to estimate project costs and make informed financial decisions. Its user-friendly interface, dynamic service selection, and real-time currency conversion capabilities make it a versatile solution for various use cases. The application can evolve into a more comprehensive and powerful financial planning tool by incorporating the suggested enhancements.
-Remember, this documentation is a high-level overview of the project. For a more in-depth understanding, please refer to the source code, and any additional design or requirement documents, and conduct thorough testing.
+Remember, this documentation is a high-level overview of the project. For a more in-depth understanding, please refer to the source code, any additional design or requirement documents, and conduct thorough testing.
 Let me know if you have any specific questions or need any further clarification on the documentation!
 
 
@@ -89,7 +89,7 @@ Purpose: Helps users estimate the costs of starting a new business or project.
 Tech Stack: ASP.NET Core MVC, HTML, CSS, JavaScript, Bootstrap, and a currency conversion API.
 How it Works: Users select services, the app calculates the total cost and then converts it to different currencies (optional).
 Features: Easy to use, flexible service options, real-time currency conversion, and basic error handling.
-Future Ideas: User accounts, detailed reports, better error handling, admin panel, and integration with other services.
+Future Ideas: User accounts, detailed reports, better error handling, an admin panel, and integration with other services.
 
 
 Some key assumptions and considerations for users of the Business Cost Calculator:
